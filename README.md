@@ -15,7 +15,7 @@
 
 ## Quote ##
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=You live more for 5 minutes going fast on a bike than other people do in all of their life.&author=Io)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Youlivemorefor5minutesgoingfastonabikethanotherpeopledoinalloftheirlife.&author=MarcoSimoncelli)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## My Techs ##
 
