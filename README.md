@@ -15,7 +15,7 @@
 
 ## Quote ##
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Prova&author=Io)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Youlivemorefor5minutesgoingfastonabikethanotherpeopledoinalloftheirlife.&author=Io)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## My Techs ##
 
