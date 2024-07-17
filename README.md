@@ -1,4 +1,4 @@
 # SimoneCerri
 
-[(assets/img/header.png)]
+[!(assets/img/header.png)](https://github.com/SimoneCerri)
 <!-- [![Hello World, I'm Simon!](assets/img/header.png)](https://github.com/SimoneCerri) -->
