@@ -15,7 +15,7 @@
 
 ## Quote ##
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?quote=Ciao?)](https://github.com/piyushsuthar/github-readme-quotes)
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## My Techs ##
 
