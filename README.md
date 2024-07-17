@@ -1,7 +1,9 @@
 <div align="center">
+
 [![Hello World, I'm Simon!](assets/img/header.gif)](https://github.com/SimoneCerri)
 
 [![My Social](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 </div>
 - 🏷 SoftSkill -> { ProblemSolving&CriticalThinking , Communication , TeamWork , Caring }
 - ℹ Hobby -> MMA | Motorcycle | Gaming
