@@ -15,7 +15,7 @@
 
 ## Quote ##
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Prova)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=Prova?author=Io)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## My Techs ##
 
@@ -29,5 +29,7 @@
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+Made by ScorpioN with ❤ and docs
 
 </div>
